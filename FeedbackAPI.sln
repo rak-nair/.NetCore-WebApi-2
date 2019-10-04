@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackAPI", "FeedbackAPI\FeedbackAPI.csproj", "{CDCFCC0D-01B4-4AD0-A0DB-290C22B969A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackAPI.Tests", "FeedbackAPI.Tests\FeedbackAPI.Tests.csproj", "{DC15837B-E69A-48D6-9E21-88B92C2FC93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCFCC0D-01B4-4AD0-A0DB-290C22B969A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCFCC0D-01B4-4AD0-A0DB-290C22B969A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCFCC0D-01B4-4AD0-A0DB-290C22B969A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCFCC0D-01B4-4AD0-A0DB-290C22B969A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC15837B-E69A-48D6-9E21-88B92C2FC93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC15837B-E69A-48D6-9E21-88B92C2FC93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC15837B-E69A-48D6-9E21-88B92C2FC93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC15837B-E69A-48D6-9E21-88B92C2FC93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1311C2D-7556-4E3B-A791-CEC483CBCF68}
+	EndGlobalSection
+EndGlobal
